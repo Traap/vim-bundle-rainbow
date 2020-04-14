@@ -2,6 +2,7 @@
 if exists('g:loaded_bundle_rainbow')
   finish
 endif
+let g:loaded_bundle_rainbow=1
 " -------------------------------------------------------------------------- }}}
 " {{{ Rainbow
 let g:rainbow_active = 1
